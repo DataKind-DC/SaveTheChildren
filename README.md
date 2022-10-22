@@ -14,5 +14,3 @@ For this project we relied data collected by [UNICEF](https://www.unicef.org/) a
     - This theme includes all OpenStreetMap features in this area matching: `healthcare IS NOT NULL OR amenity IN (‘doctors’,‘dentist’,‘clinic’,‘hospital’,‘pharmacy’)`
 - [Kenya - Subnational Population Statistics](https://data.humdata.org/dataset/cod-ps-ken). Kenya administrative level 0-2 projected 2019 sex and age disaggregated population statistics. Only Level 2 was used.
 
-
-## Technical Approach
