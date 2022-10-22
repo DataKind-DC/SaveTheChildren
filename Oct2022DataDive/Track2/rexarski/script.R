@@ -79,6 +79,6 @@ my_map <-
     col = "red"
   )
 
-tmap_save(my_map, "Oct2022DataDive/Track2/rexarski/index.html")
+tmap_save(my_map, "index.html")
 
 styler::style_dir()
